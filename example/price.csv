@@ -1,0 +1,429 @@
+Make,Model,EngineSize,MSRP,Invoice
+Acura,MDX,3.5,36945,33337
+Acura,RSX Type S 2dr,2.0,23820,21761
+Acura,TSX 4dr,2.4,26990,24647
+Acura,TL 4dr,3.2,33195,30299
+Acura,3.5 RL 4dr,3.5,43755,39014
+Acura,3.5 RL w/Navigation 4dr,3.5,46100,41100
+Acura,NSX coupe 2dr manual S,3.2,89765,79978
+Honda,Civic Hybrid 4dr manual (gas/electric),1.4,20140,18451
+Honda,Insight 2dr (gas/electric),2.0,19110,17911
+Honda,Pilot LX,3.5,27560,24843
+Honda,CR-V LX,2.4,19860,18419
+Honda,Element LX,2.4,18690,17334
+Honda,Civic DX 2dr,1.7,13270,12175
+Honda,Civic HX 2dr,1.7,14170,12996
+Honda,Civic LX 4dr,1.7,15850,14531
+Honda,Accord LX 2dr,2.4,19860,17924
+Honda,Accord EX 2dr,2.4,22260,20080
+Honda,Civic EX 4dr,1.7,17750,16265
+Honda,Civic Si 2dr hatch,2.0,19490,17849
+Honda,Accord LX V6 4dr,3.0,23760,21428
+Honda,Accord EX V6 2dr,3.0,26960,24304
+Honda,Odyssey LX,3.5,24950,22498
+Honda,Odyssey EX,3.5,27450,24744
+Honda,S2000 convertible 2dr,2.2,33260,29965
+Hyundai,Santa Fe GLS,2.7,21589,20201
+Hyundai,Accent 2dr hatch,1.6,10539,10107
+Hyundai,Accent GL 4dr,1.6,11839,11116
+Hyundai,Accent GT 2dr hatch,1.6,11939,11209
+Hyundai,Elantra GLS 4dr,2.0,13839,12781
+Hyundai,Elantra GT 4dr,2.0,15389,14207
+Hyundai,Elantra GT 4dr hatch,2.0,15389,14207
+Hyundai,Sonata GLS 4dr,2.7,19339,17574
+Hyundai,Sonata LX 4dr,2.7,20339,18380
+Hyundai,XG350 4dr,3.5,24589,22055
+Hyundai,XG350 L 4dr,3.5,26189,23486
+Hyundai,Tiburon GT V6 2dr,2.7,18739,17101
+Infiniti,G35 4dr,3.5,28495,26157
+Infiniti,G35 Sport Coupe 2dr,3.5,29795,27536
+Infiniti,G35 4dr,3.5,32445,29783
+Infiniti,I35 4dr,3.5,31145,28320
+Infiniti,M45 4dr,4.5,42845,38792
+Infiniti,Q45 Luxury 4dr,4.5,52545,47575
+Infiniti,FX35,3.5,34895,31756
+Infiniti,FX45,4.5,36395,33121
+Isuzu,Ascender S,4.2,31849,29977
+Isuzu,Rodeo S,3.2,20449,19261
+Kia,Sorento LX,3.5,19635,18630
+Kia,Optima LX 4dr,2.4,16040,14910
+Kia,Rio 4dr manual,1.6,10280,9875
+Kia,Rio 4dr auto,1.6,11155,10705
+Kia,Spectra 4dr,1.8,12360,11630
+Kia,Spectra GS 4dr hatch,1.8,13580,12830
+Kia,Spectra GSX 4dr hatch,1.8,14630,13790
+Kia,Optima LX V6 4dr,2.7,18435,16850
+Kia,Amanti 4dr,3.5,26000,23764
+Kia,Sedona LX,3.5,20615,19400
+Kia,Rio Cinco,1.6,11905,11410
+Lexus,GX 470,4.7,45700,39838
+Lexus,LX 470,4.7,64800,56455
+Lexus,RX 330,3.3,39195,34576
+Lexus,ES 330 4dr,3.3,32350,28755
+Lexus,IS 300 4dr manual,3.0,31045,27404
+Lexus,IS 300 4dr auto,3.0,32415,28611
+Lexus,GS 300 4dr,3.0,41010,36196
+Lexus,GS 430 4dr,4.3,48450,42232
+Lexus,LS 430 4dr,4.3,55750,48583
+Lexus,SC 430 convertible 2dr,4.3,63200,55063
+Lexus,IS 300 SportCross,3.0,32455,28647
+Mazda,Tribute DX 2.0,2.0,21087,19742
+Mazda,Mazda3 i 4dr,2.0,15500,14525
+Mazda,Mazda3 s 4dr,2.3,17200,15922
+Mazda,Mazda6 i 4dr,2.3,19270,17817
+Mazda,MPV ES,3.0,28750,26600
+Mazda,MX-5 Miata convertible 2dr,1.8,22388,20701
+Mazda,MX-5 Miata LS convertible 2dr,1.8,25193,23285
+Mazda,RX-8 4dr automatic,1.3,25700,23794
+Mazda,RX-8 4dr manual,1.3,27200,25179
+Mazda,B2300 SX Regular Cab,2.3,14840,14070
+Mazda,B4000 SE Cab Plus,4.0,22350,20482
+Mitsubishi,Endeavor XLS,3.8,30492,28330
+Mitsubishi,Montero XLS,3.8,33112,30763
+Mitsubishi,Outlander LS,2.4,18892,17569
+Mitsubishi,Lancer ES 4dr,2.0,14622,13751
+Mitsubishi,Lancer LS 4dr,2.0,16722,15718
+Mitsubishi,Galant ES 2.4L 4dr,2.4,19312,17957
+Mitsubishi,Lancer OZ Rally 4dr auto,2.0,17232,16196
+Mitsubishi,Diamante LS 4dr,3.5,29282,27250
+Mitsubishi,Galant GTS 4dr,3.8,25700,23883
+Mitsubishi,Eclipse GTS 2dr,3.0,25092,23456
+Mitsubishi,Eclipse Spyder GT convertible 2dr,3.0,26992,25218
+Mitsubishi,Lancer Evolution 4dr,2.0,29562,27466
+Mitsubishi,Lancer Sportback LS,2.4,17495,16295
+Nissan,Pathfinder Armada SE,5.6,33840,30815
+Nissan,Pathfinder SE,3.5,27339,25972
+Nissan,Xterra XE V6,3.3,20939,19512
+Nissan,Sentra 1.8 4dr,1.8,12740,12205
+Nissan,Sentra 1.8 S 4dr,1.8,14740,13747
+Nissan,Altima S 4dr,2.5,19240,18030
+Nissan,Sentra SE-R 4dr,2.5,17640,16444
+Nissan,Altima SE 4dr,3.5,23290,21580
+Nissan,Maxima SE 4dr,3.5,27490,25182
+Nissan,Maxima SL 4dr,3.5,29440,26966
+Nissan,Quest S,3.5,24780,22958
+Nissan,Quest SE,3.5,32780,30019
+Nissan,350Z coupe 2dr,3.5,26910,25203
+Nissan,350Z Enthusiast convertible 2dr,3.5,34390,31845
+Nissan,Frontier King Cab XE V6,3.3,19479,18253
+Nissan,Titan King Cab XE,5.6,26650,24926
+Nissan,Murano SL,3.5,28739,27300
+Scion,xA 4dr hatch,1.5,12965,12340
+Scion,xB,1.5,14165,13480
+Subaru,Impreza 2.5 RS 4dr,2.5,19945,18399
+Subaru,Legacy L 4dr,2.5,20445,18713
+Subaru,Legacy GT 4dr,2.5,25645,23336
+Subaru,Outback Limited Sedan 4dr,2.5,27145,24687
+Subaru,Outback H6 4dr,3.0,29345,26660
+Subaru,Outback H-6 VDC 4dr,3.0,31545,28603
+Subaru,Impreza WRX 4dr,2.0,25045,23022
+Subaru,Impreza WRX STi 4dr,2.5,31545,29130
+Subaru,Baja,2.5,24520,22304
+Subaru,Forester X,2.5,21445,19646
+Subaru,Outback,2.5,23895,21773
+Suzuki,XL-7 EX,2.7,23699,22307
+Suzuki,Vitara LX,2.5,17163,16949
+Suzuki,Aeno S 4dr,2.3,12884,12719
+Suzuki,Aerio LX 4dr,2.3,14500,14317
+Suzuki,Forenza S 4dr,2.0,12269,12116
+Suzuki,Forenza EX 4dr,2.0,15568,15378
+Suzuki,Verona LX 4dr,2.5,17262,17053
+Suzuki,Aerio SX,2.3,16497,16291
+Toyota,Prius 4dr (gas/electric),1.5,20510,18926
+Toyota,Sequoia SR5,4.7,35695,31827
+Toyota,4Runner SR5 V6,4.0,27710,24801
+Toyota,Highlander V6,3.3,27930,24915
+Toyota,Land Cruiser,4.7,54765,47986
+Toyota,RAV4,2.4,20290,18553
+Toyota,Corolla CE 4dr,1.8,14085,13065
+Toyota,Corolla S 4dr,1.8,15030,13650
+Toyota,Corolla LE 4dr,1.8,15295,13889
+Toyota,Echo 2dr manual,1.5,10760,10144
+Toyota,Echo 2dr auto,1.5,11560,10896
+Toyota,Echo 4dr,1.5,11290,10642
+Toyota,Camry LE 4dr,2.4,19560,17558
+Toyota,Camry LE V6 4dr,3.0,22775,20325
+Toyota,Camry Solara SE 2dr,2.4,19635,17722
+Toyota,Camry Solara SE V6 2dr,3.3,21965,19819
+Toyota,Avalon XL 4dr,3.0,26560,23693
+Toyota,Camry XLE V6 4dr,3.0,25920,23125
+Toyota,Camry Solara SLE V6 2dr,3.3,26510,23908
+Toyota,Avalon XLS 4dr,3.0,30920,27271
+Toyota,Sienna CE,3.3,23495,21198
+Toyota,Sienna XLE Limited,3.3,28800,25690
+Toyota,Celica GT-S 2dr,1.8,22570,20363
+Toyota,MR2 Spyder convertible 2dr,1.8,25130,22787
+Toyota,Tacoma,2.4,12800,11879
+Toyota,Tundra Regular Cab V6,3.4,16495,14978
+Toyota,Tundra Access Cab V6 SR5,3.4,25935,23520
+Toyota,Matrix XR,1.8,16695,15156
+Audi,A4 1.8T 4dr,1.8,25940,23508
+Audi,A41.8T convertible 2dr,1.8,35940,32506
+Audi,A4 3.0 4dr,3.0,31840,28846
+Audi,A4 3.0 Quattro 4dr manual,3.0,33430,30366
+Audi,A4 3.0 Quattro 4dr auto,3.0,34480,31388
+Audi,A6 3.0 4dr,3.0,36640,33129
+Audi,A6 3.0 Quattro 4dr,3.0,39640,35992
+Audi,A4 3.0 convertible 2dr,3.0,42490,38325
+Audi,A4 3.0 Quattro convertible 2dr,3.0,44240,40075
+Audi,A6 2.7 Turbo Quattro 4dr,2.7,42840,38840
+Audi,A6 4.2 Quattro 4dr,4.2,49690,44936
+Audi,A8 L Quattro 4dr,4.2,69190,64740
+Audi,S4 Quattro 4dr,4.2,48040,43556
+Audi,RS 6 4dr,4.2,84600,76417
+Audi,TT 1.8 convertible 2dr (coupe),1.8,35940,32512
+Audi,TT 1.8 Quattro 2dr (convertible),1.8,37390,33891
+Audi,TT 3.2 coupe 2dr (convertible),3.2,40590,36739
+Audi,A6 3.0 Avant Quattro,3.0,40840,37060
+Audi,S4 Avant Quattro,4.2,49090,44446
+BMW,X3 3.0i,3.0,37000,33873
+BMW,X5 4.4i,4.4,52195,47720
+BMW,325i 4dr,2.5,28495,26155
+BMW,325Ci 2dr,2.5,30795,28245
+BMW,325Ci convertible 2dr,2.5,37995,34800
+BMW,325xi 4dr,2.5,30245,27745
+BMW,330i 4dr,3.0,35495,32525
+BMW,330Ci 2dr,3.0,36995,33890
+BMW,330xi 4dr,3.0,37245,34115
+BMW,525i 4dr,2.5,39995,36620
+BMW,330Ci convertible 2dr,3.0,44295,40530
+BMW,530i 4dr,3.0,44995,41170
+BMW,545iA 4dr,4.4,54995,50270
+BMW,745i 4dr,4.4,69195,63190
+BMW,745Li 4dr,4.4,73195,66830
+BMW,M3 coupe 2dr,3.2,48195,44170
+BMW,M3 convertible 2dr,3.2,56595,51815
+BMW,Z4 convertible 2.5i 2dr,2.5,33895,31065
+BMW,Z4 convertible 3.0i 2dr,3.0,41045,37575
+BMW,325xi Sport,2.5,32845,30110
+Buick,Rainier,4.2,37895,34357
+Buick,Rendezvous CX,3.4,26545,24085
+Buick,Century Custom 4dr,3.1,22180,20351
+Buick,LeSabre Custom 4dr,3.8,26470,24282
+Buick,Regal LS 4dr,3.8,24895,22835
+Buick,Regal GS 4dr,3.8,28345,26047
+Buick,LeSabre Limited 4dr,3.8,32245,29566
+Buick,Park Avenue 4dr,3.8,35545,32244
+Buick,Park Avenue Ultra 4dr,3.8,40720,36927
+Cadillac,Escalade,5.3,52795,48377
+Cadillac,SRX V8,4.6,46995,43523
+Cadillac,CTS VVT 4dr,3.6,30835,28575
+Cadillac,Deville 4dr,4.6,45445,41650
+Cadillac,Deville DTS 4dr,4.6,50595,46362
+Cadillac,Seville SLS 4dr,4.6,47955,43841
+Cadillac,XLR convertible 2dr,4.6,76200,70546
+Cadillac,Escalade EXT,6.0,52975,48541
+Chevrolet,Suburban 1500 LT,5.3,42735,37422
+Chevrolet,Tahoe LT,5.3,41465,36287
+Chevrolet,TrailBlazer LT,4.2,30295,27479
+Chevrolet,Tracker,2.5,20255,19108
+Chevrolet,Aveo 4dr,1.6,11690,10965
+Chevrolet,Aveo LS 4dr hatch,1.6,12585,11802
+Chevrolet,Cavalier 2dr,2.2,14610,13697
+Chevrolet,Cavalier 4dr,2.2,14810,13884
+Chevrolet,Cavalier LS 2dr,2.2,16385,15357
+Chevrolet,Impala 4dr,3.4,21900,20095
+Chevrolet,Malibu 4dr,2.2,18995,17434
+Chevrolet,Malibu LS 4dr,3.5,20370,18639
+Chevrolet,Monte Carlo LS 2dr,3.4,21825,20026
+Chevrolet,Impala LS 4dr,3.8,25000,22931
+Chevrolet,Impala SS 4dr,3.8,27995,25672
+Chevrolet,Malibu LT 4dr,3.5,23495,21551
+Chevrolet,Monte Carlo SS 2dr,3.8,24225,22222
+Chevrolet,Astro,4.3,26395,23954
+Chevrolet,Venture LS,3.4,27020,24518
+Chevrolet,Corvette 2dr,5.7,44535,39068
+Chevrolet,Corvette convertible 2dr,5.7,51535,45193
+Chevrolet,Avalanche 1500,5.3,36100,31689
+Chevrolet,Colorado Z85,2.8,18760,17070
+Chevrolet,Silverado 1500 Regular Cab,4.3,20310,18480
+Chevrolet,Silverado SS,6.0,40340,35399
+Chevrolet,SSR,5.3,41995,39306
+Chevrolet,Malibu Maxx LS,3.5,22225,20394
+Chrysler,PT Cruiser 4dr,2.4,17985,16919
+Chrysler,PT Cruiser Limited 4dr,2.4,22000,20573
+Chrysler,Sebring 4dr,2.4,19090,17805
+Chrysler,Sebring Touring 4dr,2.7,21840,20284
+Chrysler,300M 4dr,3.5,29865,27797
+Chrysler,Concorde LX 4dr,2.7,24130,22452
+Chrysler,Concorde LXi 4dr,3.5,26860,24909
+Chrysler,PT Cruiser GT 4dr,2.4,25955,24172
+Chrysler,Sebring convertible 2dr,2.4,25215,23451
+Chrysler,300M Special Edition 4dr,3.5,33295,30884
+Chrysler,Sebring Limited convertible 2dr,2.7,30950,28613
+Chrysler,Town and Country LX,3.3,27490,25371
+Chrysler,Town and Country Limited,3.8,38380,35063
+Chrysler,Crossfire 2dr,3.2,34495,32033
+Chrysler,Pacifica,3.5,31230,28725
+Dodge,Durango SLT,4.7,32235,29472
+Dodge,Neon SE 4dr,2.0,13670,12849
+Dodge,Neon SXT 4dr,2.0,15040,14086
+Dodge,Intrepid SE 4dr,2.7,22035,20502
+Dodge,Stratus SXT 4dr,2.4,18820,17512
+Dodge,Stratus SE 4dr,2.4,20220,18821
+Dodge,Intrepid ES 4dr,3.5,24885,23058
+Dodge,Caravan SE,2.4,21795,20508
+Dodge,Grand Caravan SXT,3.8,32660,29812
+Dodge,Viper SRT-10 convertible 2dr,8.3,81795,74451
+Dodge,Dakota Regular Cab,3.7,17630,16264
+Dodge,Dakota Club Cab,3.7,20300,18670
+Dodge,Ram 1500 Regular Cab ST,3.7,20215,18076
+Ford,Excursion 6.8 XLT,6.8,41475,36494
+Ford,Expedition 4.6 XLT,4.6,34560,30468
+Ford,Explorer XLT V6,4.0,29670,26983
+Ford,Escape XLS,3.0,22515,20907
+Ford,Focus ZX3 2dr hatch,2.0,13270,12482
+Ford,Focus LX 4dr,2.0,13730,12906
+Ford,Focus SE 4dr,2.0,15460,14496
+Ford,Focus ZX5 5dr,2.0,15580,14607
+Ford,Focus SVT 2dr,2.0,19135,17878
+Ford,Taurus LX 4dr,3.0,20320,18881
+Ford,Taurus SES Duratec 4dr,3.0,22735,20857
+Ford,Crown Victoria 4dr,4.6,24345,22856
+Ford,Crown Victoria LX 4dr,4.6,27370,25105
+Ford,Crown Victoria LX Sport 4dr,4.6,30315,27756
+Ford,Freestar SE,3.9,26930,24498
+Ford,Mustang 2dr (convertible),3.8,18345,16943
+Ford,Mustang GT Premium convertible 2dr,4.6,29380,26875
+Ford,Thunderbird Deluxe convert w/hardtop 2d,3.9,37530,34483
+Ford,F-150 Regular Cab XL,4.6,22010,19490
+Ford,F-150 Supercab Lariat,5.4,33540,29405
+Ford,Ranger 2.3 XL Regular Cab,2.3,14385,13717
+Ford,Focus ZTW,2.0,17475,16375
+Ford,Taurus SE,3.0,22290,20457
+GMC,Envoy XUV SLE,4.2,31890,28922
+GMC,Yukon 1500 SLE,4.8,35725,31361
+GMC,Yukon XL 2500 SLT,6.0,46265,40534
+GMC,Safari SLE,4.3,25640,23215
+GMC,Canyon Z85 SL Regular Cab,2.8,16530,14877
+GMC,Sierra Extended Cab 1500,4.8,25717,22604
+GMC,Sierra HD 2500,6.0,29322,25759
+GMC,Sonoma Crew Cab,4.3,25395,23043
+Hummer,H2,6.0,49995,45815
+Jaguar,X-Type 2.5 4dr,2.5,29995,27355
+Jaguar,X-Type 3.0 4dr,3.0,33995,30995
+Jaguar,S-Type 3.0 4dr,3.0,43895,40004
+Jaguar,S-Type 4.2 4dr,4.2,49995,45556
+Jaguar,S-Type R 4dr,4.2,63120,57499
+Jaguar,Vanden Plas 4dr,4.2,68995,62846
+Jaguar,XJ8 4dr,4.2,59995,54656
+Jaguar,XJR 4dr,4.2,74995,68306
+Jaguar,XK8 coupe 2dr,4.2,69995,63756
+Jaguar,XK8 convertible 2dr,4.2,74995,68306
+Jaguar,XKR coupe 2dr,4.2,81995,74676
+Jaguar,XKR convertible 2dr,4.2,86995,79226
+Jeep,Grand Cherokee Laredo,4.0,27905,25686
+Jeep,Liberty Sport,2.4,20130,18973
+Jeep,Wrangler Sahara convertible 2dr,4.0,25520,23275
+Land Rover,Range Rover HSE,4.4,72250,65807
+Land Rover,Discovery SE,4.6,39250,35777
+Land Rover,Freelander SE,2.5,25995,23969
+Lincoln,Navigator Luxury,5.4,52775,46360
+Lincoln,Aviator Ultimate,4.6,42915,39443
+Lincoln,LS V6 Luxury 4dr,3.0,32495,29969
+Lincoln,LS V6 Premium 4dr,3.0,36895,33929
+Lincoln,LS V8 Sport 4dr,3.9,40095,36809
+Lincoln,LS V8 Ultimate 4dr,3.9,43495,39869
+Lincoln,Town Car Signature 4dr,4.6,41815,38418
+Lincoln,Town Car Ultimate 4dr,4.6,44925,41217
+Lincoln,Town Car Ultimate L 4dr,4.6,50470,46208
+MINI,Cooper,1.6,16999,15437
+MINI,Cooper S,1.6,19999,18137
+Mercedes-Benz,G500,5.0,76870,71540
+Mercedes-Benz,ML500,5.0,46470,43268
+Mercedes-Benz,C230 Sport 2dr,1.8,26060,24249
+Mercedes-Benz,C320 Sport 2dr,3.2,28370,26435
+Mercedes-Benz,C240 4dr,2.6,32280,30071
+Mercedes-Benz,C240 4dr,2.6,33480,31187
+Mercedes-Benz,C320 Sport 4dr,3.2,35920,33456
+Mercedes-Benz,C320 4dr,3.2,37630,35046
+Mercedes-Benz,C320 4dr,3.2,38830,36162
+Mercedes-Benz,C32 AMG 4dr,3.2,52120,48522
+Mercedes-Benz,CL500 2dr,5.0,94820,88324
+Mercedes-Benz,CL600 2dr,5.5,128420,119600
+Mercedes-Benz,CLK320 coupe 2dr (convertible),3.2,45707,41966
+Mercedes-Benz,CLK500 coupe 2dr (convertible),5.0,52800,49104
+Mercedes-Benz,E320 4dr,3.2,48170,44849
+Mercedes-Benz,E500 4dr,5.0,57270,53382
+Mercedes-Benz,S430 4dr,4.3,74320,69168
+Mercedes-Benz,S500 4dr,5.0,86970,80939
+Mercedes-Benz,SL500 convertible 2dr,5.0,90520,84325
+Mercedes-Benz,SL55 AMG 2dr,5.5,121770,113388
+Mercedes-Benz,SL600 convertible 2dr,5.5,126670,117854
+Mercedes-Benz,SLK230 convertible 2dr,2.3,40320,37548
+Mercedes-Benz,SLK32 AMG 2dr,3.2,56170,52289
+Mercedes-Benz,C240,2.6,33780,31466
+Mercedes-Benz,E320,3.2,50670,47174
+Mercedes-Benz,E500,5.0,60670,56474
+Mercury,Mountaineer,4.0,29995,27317
+Mercury,Sable GS 4dr,3.0,21595,19848
+Mercury,Grand Marquis GS 4dr,4.6,24695,23217
+Mercury,Grand Marquis LS Premium 4dr,4.6,29595,27148
+Mercury,Sable LS Premium 4dr,3.0,23895,21918
+Mercury,Grand Marquis LS Ultimate 4dr,4.6,30895,28318
+Mercury,Marauder 4dr,4.6,34495,31558
+Mercury,Monterey Luxury,4.2,33995,30846
+Mercury,Sable GS,3.0,22595,20748
+Oldsmobile,Alero GX 2dr,2.2,18825,17642
+Oldsmobile,Alero GLS 2dr,3.4,23675,21485
+Oldsmobile,Silhouette GL,3.4,28790,26120
+Pontiac,Aztekt,3.4,21595,19810
+Pontiac,Sunfire 1SA 2dr,2.2,15495,14375
+Pontiac,Grand Am GT 2dr,3.4,22450,20595
+Pontiac,Grand Prix GT1 4dr,3.8,22395,20545
+Pontiac,Sunfire 1SC 2dr,2.2,17735,16369
+Pontiac,Grand Prix GT2 4dr,3.8,24295,22284
+Pontiac,Bonneville GXP 4dr,4.6,35995,32997
+Pontiac,Montana,3.4,23845,21644
+Pontiac,Montana EWB,3.4,31370,28454
+Pontiac,GTO 2dr,5.7,33500,30710
+Pontiac,Vibe,1.8,17045,15973
+Porsche,Cayenne S,4.5,56665,49865
+Porsche,911 Carrera convertible 2dr (coupe),3.6,79165,69229
+Porsche,911 Carrera 4S coupe 2dr (convert),3.6,84165,72206
+Porsche,911 Targa coupe 2dr,3.6,76765,67128
+Porsche,911 GT2 2dr,3.6,192465,173560
+Porsche,Boxster convertible 2dr,2.7,43365,37886
+Porsche,Boxster S convertible 2dr,3.2,52365,45766
+Saab,9-3 Arc Sport 4dr,2.0,30860,29269
+Saab,9-3 Aero 4dr,2.0,33360,31562
+Saab,9-5 Arc 4dr,2.3,35105,33011
+Saab,9-5 Aero 4dr,2.3,39465,37721
+Saab,9-3 Arc convertible 2dr,2.0,40670,38520
+Saab,9-3 Aero convertible 2dr,2.0,43175,40883
+Saab,9-5 Aero,2.3,40845,38376
+Saturn,VUE,2.2,20585,19238
+Saturn,Ion1 4dr,2.2,10995,10319
+Saturn,lon2 4dr,2.2,14300,13393
+Saturn,lon3 4dr,2.2,15825,14811
+Saturn,lon2 quad coupe 2dr,2.2,14850,13904
+Saturn,lon3 quad coupe 2dr,2.2,16350,15299
+Saturn,L300-2 4dr,3.0,21410,19801
+Saturn,L300 2,2.2,23560,21779
+Volkswagen,Touareg V6,3.2,35515,32243
+Volkswagen,Golf GLS 4dr,2.0,18715,17478
+Volkswagen,GTI 1.8T 2dr hatch,1.8,19825,18109
+Volkswagen,Jetta GLS TDI 4dr,1.9,21055,19638
+Volkswagen,New Beetle GLS 1.8T 2dr,1.8,21055,19638
+Volkswagen,Jetta GLI VR6 4dr,2.8,23785,21686
+Volkswagen,New Beetle GLS convertible 2dr,2.0,23215,21689
+Volkswagen,Passat GLS 4dr,1.8,23955,21898
+Volkswagen,Passat GLX V6 4MOTION 4dr,2.8,33180,30583
+Volkswagen,Passat W8 4MOTION 4dr,4.0,39235,36052
+Volkswagen,Phaeton 4dr,4.2,65000,59912
+Volkswagen,Phaeton W12 4dr,6.0,75000,69130
+Volkswagen,Jetta GL,2.0,19005,17427
+Volkswagen,Passat GLS 1.8T,1.8,24955,22801
+Volkswagen,Passat W8,4.0,40235,36956
+Volvo,XC90 T6,2.9,41250,38851
+Volvo,S40 4dr,1.9,25135,23701
+Volvo,S60 2.5 4dr,2.5,31745,29916
+Volvo,S60 T5 4dr,2.3,34845,32902
+Volvo,S60 R 4dr,2.5,37560,35382
+Volvo,S80 2.9 4dr,2.9,37730,35542
+Volvo,S80 2.5T 4dr,2.5,37885,35688
+Volvo,C70 LPT convertible 2dr,2.4,40565,38203
+Volvo,C70 HPT convertible 2dr,2.3,42565,40083
+Volvo,S80 T6 4dr,2.9,45210,42573
+Volvo,V40,1.9,26135,24641
+Volvo,XC70,2.5,35145,33112
